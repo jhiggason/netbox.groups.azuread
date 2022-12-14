@@ -3,6 +3,9 @@ A python program for Netbox and assigning group/super user permissions via Azure
 
 AzureAD related customizations for Netbox deployment.
 
+## Source
+
+https://github.com/nautobot/nautobot/tree/main/examples/azure_ad
 
 ## Usage
 
